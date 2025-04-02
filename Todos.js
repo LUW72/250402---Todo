@@ -1,5 +1,5 @@
 import Todo from "./Todo.js";
-import TodoInput from "./todoInput.js";
+import TodoInput from "./TodoInput.js";
 
 export default class Todos
 {
